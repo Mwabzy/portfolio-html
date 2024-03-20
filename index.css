@@ -1,0 +1,18 @@
+body{
+   background-color: #ECEFF1; 
+}
+h2,h1{
+    text-align: center;
+    font-family: "Viaoda Libre", serif;
+    font-weight: 300;
+    font-style: normal;
+
+}
+h3{
+    margin-top: 40px;
+}
+a{
+    text-decoration: none;
+    color: #607D8B
+    ;
+}
